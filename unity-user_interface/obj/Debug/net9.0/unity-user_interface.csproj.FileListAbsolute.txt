@@ -1,0 +1,15 @@
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\bin\Debug\net9.0\unity-user_interface.exe
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\bin\Debug\net9.0\unity-user_interface.deps.json
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\bin\Debug\net9.0\unity-user_interface.runtimeconfig.json
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\bin\Debug\net9.0\unity-user_interface.dll
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\bin\Debug\net9.0\unity-user_interface.pdb
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\unity-user_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\unity-user_interface.AssemblyInfoInputs.cache
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\unity-user_interface.AssemblyInfo.cs
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\unity-user_interface.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\unity-user_interface.sourcelink.json
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\unity-user_interface.dll
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\refint\unity-user_interface.dll
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\unity-user_interface.pdb
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\unity-user_interface.genruntimeconfig.cache
+C:\Users\LENOVO\alu-unity\alu-unity\unity-user_interface\obj\Debug\net9.0\ref\unity-user_interface.dll
